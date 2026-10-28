@@ -1,0 +1,6 @@
+{
+  "name": "SingleChat",
+  "description": "Minimalist single-group chat application with real-time messages, member directory, file sharing, and voice calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

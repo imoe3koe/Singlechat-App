@@ -1,0 +1,8 @@
+{
+  "name": "singlechat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No web build required for Android native app'"
+  }
+}
